@@ -56,7 +56,7 @@ body {
 	text-transform: uppercase;
 }
 #clock #time div:last-child span {
-	background: #FFCC00;
+	background: #ec0062;
 } 
 #clock #time div:last-child span:nth-child(2) {
 	background: #ec0062;
